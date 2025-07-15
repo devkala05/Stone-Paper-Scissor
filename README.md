@@ -1,6 +1,5 @@
 ### 📄 `README.md`
 
-````markdown
 # 🧠 GPU vs GPU: Rock-Paper-Scissors
 
 This project simulates a 1000-round game of Rock-Paper-Scissors between two GPUs using CUDA.
@@ -12,11 +11,11 @@ This project simulates a 1000-round game of Rock-Paper-Scissors between two GPUs
 
 ### 🛠️ Build & Run
 
-```bash
+```
 make        # Compile
 make run    # Run the simulation
 make clean  # Remove binary and logs
-````
+```
 
 ### 📁 Output
 
