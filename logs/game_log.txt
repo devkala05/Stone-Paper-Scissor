@@ -1,0 +1,1006 @@
+Round, GPU0, GPU1, Result
+1, Scissors, Rock, GPU 1 Wins
+2, Rock, Rock, Tie
+3, Scissors, Paper, GPU 0 Wins
+4, Scissors, Rock, GPU 1 Wins
+5, Scissors, Rock, GPU 1 Wins
+6, Scissors, Rock, GPU 1 Wins
+7, Scissors, Rock, GPU 1 Wins
+8, Rock, Rock, Tie
+9, Scissors, Rock, GPU 1 Wins
+10, Rock, Rock, Tie
+11, Scissors, Rock, GPU 1 Wins
+12, Rock, Rock, Tie
+13, Scissors, Rock, GPU 1 Wins
+14, Scissors, Rock, GPU 1 Wins
+15, Scissors, Rock, GPU 1 Wins
+16, Rock, Rock, Tie
+17, Rock, Rock, Tie
+18, Paper, Rock, GPU 0 Wins
+19, Scissors, Rock, GPU 1 Wins
+20, Paper, Rock, GPU 0 Wins
+21, Scissors, Rock, GPU 1 Wins
+22, Rock, Rock, Tie
+23, Scissors, Rock, GPU 1 Wins
+24, Rock, Rock, Tie
+25, Scissors, Rock, GPU 1 Wins
+26, Rock, Rock, Tie
+27, Paper, Rock, GPU 0 Wins
+28, Rock, Rock, Tie
+29, Scissors, Rock, GPU 1 Wins
+30, Scissors, Rock, GPU 1 Wins
+31, Paper, Rock, GPU 0 Wins
+32, Rock, Rock, Tie
+33, Rock, Rock, Tie
+34, Paper, Rock, GPU 0 Wins
+35, Paper, Rock, GPU 0 Wins
+36, Rock, Rock, Tie
+37, Paper, Rock, GPU 0 Wins
+38, Scissors, Rock, GPU 1 Wins
+39, Rock, Rock, Tie
+40, Scissors, Rock, GPU 1 Wins
+41, Rock, Rock, Tie
+42, Paper, Rock, GPU 0 Wins
+43, Paper, Rock, GPU 0 Wins
+44, Scissors, Rock, GPU 1 Wins
+45, Rock, Rock, Tie
+46, Scissors, Rock, GPU 1 Wins
+47, Rock, Rock, Tie
+48, Rock, Rock, Tie
+49, Paper, Rock, GPU 0 Wins
+50, Scissors, Rock, GPU 1 Wins
+51, Scissors, Rock, GPU 1 Wins
+52, Scissors, Rock, GPU 1 Wins
+53, Paper, Rock, GPU 0 Wins
+54, Scissors, Rock, GPU 1 Wins
+55, Paper, Rock, GPU 0 Wins
+56, Rock, Rock, Tie
+57, Paper, Rock, GPU 0 Wins
+58, Paper, Rock, GPU 0 Wins
+59, Scissors, Rock, GPU 1 Wins
+60, Paper, Rock, GPU 0 Wins
+61, Scissors, Rock, GPU 1 Wins
+62, Scissors, Rock, GPU 1 Wins
+63, Paper, Rock, GPU 0 Wins
+64, Scissors, Rock, GPU 1 Wins
+65, Scissors, Rock, GPU 1 Wins
+66, Rock, Rock, Tie
+67, Scissors, Rock, GPU 1 Wins
+68, Scissors, Rock, GPU 1 Wins
+69, Scissors, Rock, GPU 1 Wins
+70, Paper, Rock, GPU 0 Wins
+71, Paper, Rock, GPU 0 Wins
+72, Rock, Rock, Tie
+73, Scissors, Rock, GPU 1 Wins
+74, Rock, Rock, Tie
+75, Rock, Rock, Tie
+76, Rock, Rock, Tie
+77, Rock, Rock, Tie
+78, Paper, Rock, GPU 0 Wins
+79, Scissors, Rock, GPU 1 Wins
+80, Paper, Rock, GPU 0 Wins
+81, Scissors, Rock, GPU 1 Wins
+82, Paper, Rock, GPU 0 Wins
+83, Rock, Rock, Tie
+84, Paper, Rock, GPU 0 Wins
+85, Rock, Rock, Tie
+86, Scissors, Rock, GPU 1 Wins
+87, Paper, Rock, GPU 0 Wins
+88, Rock, Rock, Tie
+89, Rock, Rock, Tie
+90, Rock, Rock, Tie
+91, Rock, Rock, Tie
+92, Paper, Rock, GPU 0 Wins
+93, Paper, Rock, GPU 0 Wins
+94, Rock, Rock, Tie
+95, Paper, Rock, GPU 0 Wins
+96, Scissors, Rock, GPU 1 Wins
+97, Rock, Rock, Tie
+98, Rock, Rock, Tie
+99, Paper, Rock, GPU 0 Wins
+100, Scissors, Rock, GPU 1 Wins
+101, Rock, Rock, Tie
+102, Paper, Rock, GPU 0 Wins
+103, Scissors, Rock, GPU 1 Wins
+104, Paper, Rock, GPU 0 Wins
+105, Paper, Rock, GPU 0 Wins
+106, Scissors, Rock, GPU 1 Wins
+107, Scissors, Rock, GPU 1 Wins
+108, Rock, Rock, Tie
+109, Scissors, Rock, GPU 1 Wins
+110, Paper, Rock, GPU 0 Wins
+111, Scissors, Rock, GPU 1 Wins
+112, Paper, Rock, GPU 0 Wins
+113, Rock, Rock, Tie
+114, Rock, Rock, Tie
+115, Scissors, Rock, GPU 1 Wins
+116, Scissors, Rock, GPU 1 Wins
+117, Paper, Rock, GPU 0 Wins
+118, Scissors, Rock, GPU 1 Wins
+119, Rock, Rock, Tie
+120, Scissors, Rock, GPU 1 Wins
+121, Scissors, Rock, GPU 1 Wins
+122, Paper, Rock, GPU 0 Wins
+123, Scissors, Rock, GPU 1 Wins
+124, Paper, Rock, GPU 0 Wins
+125, Rock, Rock, Tie
+126, Rock, Rock, Tie
+127, Rock, Rock, Tie
+128, Paper, Rock, GPU 0 Wins
+129, Paper, Rock, GPU 0 Wins
+130, Paper, Rock, GPU 0 Wins
+131, Paper, Rock, GPU 0 Wins
+132, Paper, Rock, GPU 0 Wins
+133, Paper, Rock, GPU 0 Wins
+134, Rock, Rock, Tie
+135, Scissors, Rock, GPU 1 Wins
+136, Rock, Rock, Tie
+137, Paper, Rock, GPU 0 Wins
+138, Rock, Rock, Tie
+139, Rock, Rock, Tie
+140, Scissors, Rock, GPU 1 Wins
+141, Scissors, Rock, GPU 1 Wins
+142, Rock, Rock, Tie
+143, Rock, Rock, Tie
+144, Scissors, Rock, GPU 1 Wins
+145, Scissors, Rock, GPU 1 Wins
+146, Rock, Rock, Tie
+147, Scissors, Rock, GPU 1 Wins
+148, Rock, Rock, Tie
+149, Paper, Rock, GPU 0 Wins
+150, Rock, Rock, Tie
+151, Paper, Rock, GPU 0 Wins
+152, Rock, Rock, Tie
+153, Scissors, Rock, GPU 1 Wins
+154, Rock, Rock, Tie
+155, Paper, Rock, GPU 0 Wins
+156, Rock, Rock, Tie
+157, Scissors, Rock, GPU 1 Wins
+158, Rock, Rock, Tie
+159, Rock, Rock, Tie
+160, Paper, Rock, GPU 0 Wins
+161, Scissors, Rock, GPU 1 Wins
+162, Scissors, Rock, GPU 1 Wins
+163, Rock, Rock, Tie
+164, Scissors, Rock, GPU 1 Wins
+165, Rock, Rock, Tie
+166, Scissors, Rock, GPU 1 Wins
+167, Rock, Rock, Tie
+168, Rock, Rock, Tie
+169, Scissors, Rock, GPU 1 Wins
+170, Paper, Rock, GPU 0 Wins
+171, Scissors, Rock, GPU 1 Wins
+172, Scissors, Rock, GPU 1 Wins
+173, Rock, Rock, Tie
+174, Scissors, Rock, GPU 1 Wins
+175, Scissors, Rock, GPU 1 Wins
+176, Scissors, Rock, GPU 1 Wins
+177, Paper, Rock, GPU 0 Wins
+178, Rock, Rock, Tie
+179, Paper, Rock, GPU 0 Wins
+180, Rock, Rock, Tie
+181, Rock, Rock, Tie
+182, Paper, Rock, GPU 0 Wins
+183, Scissors, Rock, GPU 1 Wins
+184, Paper, Rock, GPU 0 Wins
+185, Rock, Rock, Tie
+186, Scissors, Rock, GPU 1 Wins
+187, Rock, Rock, Tie
+188, Rock, Rock, Tie
+189, Rock, Rock, Tie
+190, Paper, Rock, GPU 0 Wins
+191, Rock, Rock, Tie
+192, Scissors, Rock, GPU 1 Wins
+193, Paper, Rock, GPU 0 Wins
+194, Paper, Rock, GPU 0 Wins
+195, Rock, Rock, Tie
+196, Paper, Rock, GPU 0 Wins
+197, Rock, Rock, Tie
+198, Paper, Paper, Tie
+199, Rock, Paper, GPU 1 Wins
+200, Scissors, Paper, GPU 0 Wins
+201, Scissors, Paper, GPU 0 Wins
+202, Paper, Rock, GPU 0 Wins
+203, Rock, Rock, Tie
+204, Paper, Paper, Tie
+205, Paper, Paper, Tie
+206, Scissors, Paper, GPU 0 Wins
+207, Paper, Rock, GPU 0 Wins
+208, Rock, Rock, Tie
+209, Rock, Paper, GPU 1 Wins
+210, Paper, Paper, Tie
+211, Paper, Paper, Tie
+212, Rock, Paper, GPU 1 Wins
+213, Paper, Paper, Tie
+214, Paper, Paper, Tie
+215, Scissors, Paper, GPU 0 Wins
+216, Rock, Paper, GPU 1 Wins
+217, Paper, Paper, Tie
+218, Rock, Paper, GPU 1 Wins
+219, Paper, Paper, Tie
+220, Scissors, Paper, GPU 0 Wins
+221, Paper, Paper, Tie
+222, Paper, Paper, Tie
+223, Scissors, Paper, GPU 0 Wins
+224, Paper, Paper, Tie
+225, Paper, Paper, Tie
+226, Paper, Paper, Tie
+227, Paper, Paper, Tie
+228, Rock, Paper, GPU 1 Wins
+229, Scissors, Paper, GPU 0 Wins
+230, Scissors, Paper, GPU 0 Wins
+231, Scissors, Paper, GPU 0 Wins
+232, Scissors, Rock, GPU 1 Wins
+233, Scissors, Rock, GPU 1 Wins
+234, Paper, Rock, GPU 0 Wins
+235, Paper, Rock, GPU 0 Wins
+236, Paper, Rock, GPU 0 Wins
+237, Paper, Rock, GPU 0 Wins
+238, Scissors, Rock, GPU 1 Wins
+239, Paper, Rock, GPU 0 Wins
+240, Scissors, Rock, GPU 1 Wins
+241, Rock, Rock, Tie
+242, Rock, Rock, Tie
+243, Scissors, Rock, GPU 1 Wins
+244, Rock, Rock, Tie
+245, Paper, Rock, GPU 0 Wins
+246, Scissors, Rock, GPU 1 Wins
+247, Scissors, Rock, GPU 1 Wins
+248, Paper, Rock, GPU 0 Wins
+249, Scissors, Rock, GPU 1 Wins
+250, Rock, Rock, Tie
+251, Paper, Rock, GPU 0 Wins
+252, Rock, Rock, Tie
+253, Paper, Rock, GPU 0 Wins
+254, Rock, Rock, Tie
+255, Rock, Rock, Tie
+256, Scissors, Rock, GPU 1 Wins
+257, Scissors, Rock, GPU 1 Wins
+258, Paper, Rock, GPU 0 Wins
+259, Rock, Rock, Tie
+260, Paper, Rock, GPU 0 Wins
+261, Rock, Rock, Tie
+262, Rock, Rock, Tie
+263, Paper, Rock, GPU 0 Wins
+264, Paper, Rock, GPU 0 Wins
+265, Paper, Rock, GPU 0 Wins
+266, Paper, Rock, GPU 0 Wins
+267, Paper, Rock, GPU 0 Wins
+268, Scissors, Rock, GPU 1 Wins
+269, Rock, Rock, Tie
+270, Scissors, Rock, GPU 1 Wins
+271, Paper, Rock, GPU 0 Wins
+272, Scissors, Rock, GPU 1 Wins
+273, Scissors, Rock, GPU 1 Wins
+274, Paper, Rock, GPU 0 Wins
+275, Rock, Rock, Tie
+276, Rock, Rock, Tie
+277, Scissors, Rock, GPU 1 Wins
+278, Paper, Rock, GPU 0 Wins
+279, Rock, Rock, Tie
+280, Scissors, Rock, GPU 1 Wins
+281, Scissors, Rock, GPU 1 Wins
+282, Paper, Rock, GPU 0 Wins
+283, Scissors, Rock, GPU 1 Wins
+284, Scissors, Rock, GPU 1 Wins
+285, Paper, Rock, GPU 0 Wins
+286, Rock, Rock, Tie
+287, Rock, Rock, Tie
+288, Scissors, Rock, GPU 1 Wins
+289, Paper, Rock, GPU 0 Wins
+290, Scissors, Rock, GPU 1 Wins
+291, Scissors, Rock, GPU 1 Wins
+292, Paper, Rock, GPU 0 Wins
+293, Rock, Rock, Tie
+294, Paper, Rock, GPU 0 Wins
+295, Rock, Rock, Tie
+296, Paper, Rock, GPU 0 Wins
+297, Rock, Rock, Tie
+298, Scissors, Rock, GPU 1 Wins
+299, Paper, Rock, GPU 0 Wins
+300, Rock, Rock, Tie
+301, Scissors, Rock, GPU 1 Wins
+302, Paper, Rock, GPU 0 Wins
+303, Rock, Rock, Tie
+304, Paper, Rock, GPU 0 Wins
+305, Paper, Rock, GPU 0 Wins
+306, Rock, Rock, Tie
+307, Rock, Rock, Tie
+308, Paper, Rock, GPU 0 Wins
+309, Rock, Rock, Tie
+310, Rock, Rock, Tie
+311, Rock, Paper, GPU 1 Wins
+312, Rock, Paper, GPU 1 Wins
+313, Paper, Paper, Tie
+314, Rock, Paper, GPU 1 Wins
+315, Scissors, Paper, GPU 0 Wins
+316, Scissors, Paper, GPU 0 Wins
+317, Rock, Paper, GPU 1 Wins
+318, Paper, Paper, Tie
+319, Paper, Paper, Tie
+320, Rock, Paper, GPU 1 Wins
+321, Rock, Paper, GPU 1 Wins
+322, Paper, Paper, Tie
+323, Rock, Paper, GPU 1 Wins
+324, Scissors, Paper, GPU 0 Wins
+325, Paper, Paper, Tie
+326, Rock, Paper, GPU 1 Wins
+327, Scissors, Paper, GPU 0 Wins
+328, Scissors, Paper, GPU 0 Wins
+329, Paper, Paper, Tie
+330, Scissors, Paper, GPU 0 Wins
+331, Paper, Paper, Tie
+332, Rock, Paper, GPU 1 Wins
+333, Scissors, Paper, GPU 0 Wins
+334, Paper, Paper, Tie
+335, Scissors, Paper, GPU 0 Wins
+336, Scissors, Paper, GPU 0 Wins
+337, Paper, Paper, Tie
+338, Rock, Paper, GPU 1 Wins
+339, Scissors, Paper, GPU 0 Wins
+340, Scissors, Paper, GPU 0 Wins
+341, Scissors, Rock, GPU 1 Wins
+342, Scissors, Rock, GPU 1 Wins
+343, Rock, Rock, Tie
+344, Scissors, Rock, GPU 1 Wins
+345, Rock, Rock, Tie
+346, Rock, Rock, Tie
+347, Scissors, Rock, GPU 1 Wins
+348, Paper, Rock, GPU 0 Wins
+349, Rock, Rock, Tie
+350, Paper, Rock, GPU 0 Wins
+351, Rock, Rock, Tie
+352, Paper, Paper, Tie
+353, Paper, Paper, Tie
+354, Paper, Paper, Tie
+355, Scissors, Paper, GPU 0 Wins
+356, Paper, Rock, GPU 0 Wins
+357, Rock, Rock, Tie
+358, Rock, Paper, GPU 1 Wins
+359, Rock, Paper, GPU 1 Wins
+360, Paper, Paper, Tie
+361, Rock, Paper, GPU 1 Wins
+362, Scissors, Paper, GPU 0 Wins
+363, Scissors, Paper, GPU 0 Wins
+364, Paper, Paper, Tie
+365, Rock, Paper, GPU 1 Wins
+366, Paper, Paper, Tie
+367, Scissors, Paper, GPU 0 Wins
+368, Scissors, Paper, GPU 0 Wins
+369, Scissors, Paper, GPU 0 Wins
+370, Rock, Rock, Tie
+371, Paper, Paper, Tie
+372, Rock, Paper, GPU 1 Wins
+373, Rock, Paper, GPU 1 Wins
+374, Rock, Paper, GPU 1 Wins
+375, Paper, Paper, Tie
+376, Scissors, Paper, GPU 0 Wins
+377, Paper, Paper, Tie
+378, Rock, Paper, GPU 1 Wins
+379, Paper, Paper, Tie
+380, Rock, Paper, GPU 1 Wins
+381, Paper, Paper, Tie
+382, Paper, Paper, Tie
+383, Paper, Paper, Tie
+384, Rock, Paper, GPU 1 Wins
+385, Scissors, Paper, GPU 0 Wins
+386, Rock, Paper, GPU 1 Wins
+387, Rock, Paper, GPU 1 Wins
+388, Scissors, Paper, GPU 0 Wins
+389, Paper, Paper, Tie
+390, Scissors, Paper, GPU 0 Wins
+391, Rock, Paper, GPU 1 Wins
+392, Scissors, Paper, GPU 0 Wins
+393, Rock, Paper, GPU 1 Wins
+394, Paper, Paper, Tie
+395, Scissors, Paper, GPU 0 Wins
+396, Scissors, Paper, GPU 0 Wins
+397, Scissors, Paper, GPU 0 Wins
+398, Paper, Paper, Tie
+399, Rock, Paper, GPU 1 Wins
+400, Rock, Paper, GPU 1 Wins
+401, Rock, Paper, GPU 1 Wins
+402, Scissors, Paper, GPU 0 Wins
+403, Rock, Paper, GPU 1 Wins
+404, Paper, Paper, Tie
+405, Paper, Paper, Tie
+406, Rock, Paper, GPU 1 Wins
+407, Scissors, Paper, GPU 0 Wins
+408, Scissors, Paper, GPU 0 Wins
+409, Rock, Paper, GPU 1 Wins
+410, Rock, Paper, GPU 1 Wins
+411, Paper, Paper, Tie
+412, Paper, Paper, Tie
+413, Scissors, Paper, GPU 0 Wins
+414, Rock, Paper, GPU 1 Wins
+415, Paper, Paper, Tie
+416, Paper, Paper, Tie
+417, Rock, Paper, GPU 1 Wins
+418, Paper, Paper, Tie
+419, Paper, Paper, Tie
+420, Scissors, Paper, GPU 0 Wins
+421, Rock, Paper, GPU 1 Wins
+422, Paper, Paper, Tie
+423, Scissors, Paper, GPU 0 Wins
+424, Scissors, Paper, GPU 0 Wins
+425, Scissors, Paper, GPU 0 Wins
+426, Rock, Paper, GPU 1 Wins
+427, Paper, Paper, Tie
+428, Scissors, Paper, GPU 0 Wins
+429, Scissors, Paper, GPU 0 Wins
+430, Rock, Paper, GPU 1 Wins
+431, Rock, Paper, GPU 1 Wins
+432, Scissors, Paper, GPU 0 Wins
+433, Rock, Paper, GPU 1 Wins
+434, Scissors, Paper, GPU 0 Wins
+435, Scissors, Paper, GPU 0 Wins
+436, Paper, Paper, Tie
+437, Scissors, Paper, GPU 0 Wins
+438, Paper, Paper, Tie
+439, Scissors, Paper, GPU 0 Wins
+440, Rock, Paper, GPU 1 Wins
+441, Paper, Paper, Tie
+442, Scissors, Paper, GPU 0 Wins
+443, Scissors, Paper, GPU 0 Wins
+444, Paper, Paper, Tie
+445, Paper, Paper, Tie
+446, Scissors, Paper, GPU 0 Wins
+447, Rock, Rock, Tie
+448, Paper, Paper, Tie
+449, Scissors, Paper, GPU 0 Wins
+450, Scissors, Rock, GPU 1 Wins
+451, Scissors, Rock, GPU 1 Wins
+452, Scissors, Rock, GPU 1 Wins
+453, Rock, Rock, Tie
+454, Paper, Rock, GPU 0 Wins
+455, Paper, Rock, GPU 0 Wins
+456, Rock, Rock, Tie
+457, Rock, Rock, Tie
+458, Paper, Rock, GPU 0 Wins
+459, Paper, Rock, GPU 0 Wins
+460, Paper, Rock, GPU 0 Wins
+461, Paper, Rock, GPU 0 Wins
+462, Scissors, Rock, GPU 1 Wins
+463, Paper, Rock, GPU 0 Wins
+464, Paper, Rock, GPU 0 Wins
+465, Rock, Rock, Tie
+466, Rock, Rock, Tie
+467, Rock, Paper, GPU 1 Wins
+468, Scissors, Paper, GPU 0 Wins
+469, Paper, Paper, Tie
+470, Rock, Paper, GPU 1 Wins
+471, Scissors, Paper, GPU 0 Wins
+472, Scissors, Paper, GPU 0 Wins
+473, Paper, Rock, GPU 0 Wins
+474, Scissors, Rock, GPU 1 Wins
+475, Scissors, Rock, GPU 1 Wins
+476, Paper, Rock, GPU 0 Wins
+477, Rock, Rock, Tie
+478, Scissors, Rock, GPU 1 Wins
+479, Paper, Rock, GPU 0 Wins
+480, Rock, Rock, Tie
+481, Scissors, Rock, GPU 1 Wins
+482, Scissors, Rock, GPU 1 Wins
+483, Rock, Rock, Tie
+484, Paper, Rock, GPU 0 Wins
+485, Rock, Rock, Tie
+486, Paper, Rock, GPU 0 Wins
+487, Scissors, Rock, GPU 1 Wins
+488, Scissors, Rock, GPU 1 Wins
+489, Scissors, Rock, GPU 1 Wins
+490, Scissors, Rock, GPU 1 Wins
+491, Scissors, Rock, GPU 1 Wins
+492, Paper, Rock, GPU 0 Wins
+493, Scissors, Rock, GPU 1 Wins
+494, Paper, Rock, GPU 0 Wins
+495, Paper, Rock, GPU 0 Wins
+496, Paper, Rock, GPU 0 Wins
+497, Paper, Rock, GPU 0 Wins
+498, Rock, Rock, Tie
+499, Paper, Rock, GPU 0 Wins
+500, Paper, Rock, GPU 0 Wins
+501, Rock, Rock, Tie
+502, Rock, Rock, Tie
+503, Paper, Rock, GPU 0 Wins
+504, Rock, Rock, Tie
+505, Scissors, Rock, GPU 1 Wins
+506, Paper, Rock, GPU 0 Wins
+507, Scissors, Rock, GPU 1 Wins
+508, Rock, Rock, Tie
+509, Paper, Rock, GPU 0 Wins
+510, Rock, Rock, Tie
+511, Paper, Rock, GPU 0 Wins
+512, Scissors, Rock, GPU 1 Wins
+513, Paper, Rock, GPU 0 Wins
+514, Scissors, Rock, GPU 1 Wins
+515, Paper, Rock, GPU 0 Wins
+516, Scissors, Rock, GPU 1 Wins
+517, Scissors, Rock, GPU 1 Wins
+518, Scissors, Rock, GPU 1 Wins
+519, Scissors, Rock, GPU 1 Wins
+520, Scissors, Rock, GPU 1 Wins
+521, Scissors, Rock, GPU 1 Wins
+522, Rock, Rock, Tie
+523, Scissors, Rock, GPU 1 Wins
+524, Rock, Rock, Tie
+525, Scissors, Rock, GPU 1 Wins
+526, Scissors, Rock, GPU 1 Wins
+527, Paper, Rock, GPU 0 Wins
+528, Paper, Rock, GPU 0 Wins
+529, Scissors, Rock, GPU 1 Wins
+530, Paper, Rock, GPU 0 Wins
+531, Paper, Rock, GPU 0 Wins
+532, Rock, Rock, Tie
+533, Scissors, Rock, GPU 1 Wins
+534, Paper, Rock, GPU 0 Wins
+535, Scissors, Rock, GPU 1 Wins
+536, Rock, Rock, Tie
+537, Scissors, Rock, GPU 1 Wins
+538, Rock, Rock, Tie
+539, Rock, Rock, Tie
+540, Rock, Rock, Tie
+541, Rock, Rock, Tie
+542, Scissors, Rock, GPU 1 Wins
+543, Scissors, Rock, GPU 1 Wins
+544, Rock, Rock, Tie
+545, Scissors, Rock, GPU 1 Wins
+546, Paper, Rock, GPU 0 Wins
+547, Rock, Rock, Tie
+548, Rock, Rock, Tie
+549, Scissors, Rock, GPU 1 Wins
+550, Paper, Rock, GPU 0 Wins
+551, Paper, Rock, GPU 0 Wins
+552, Paper, Rock, GPU 0 Wins
+553, Scissors, Rock, GPU 1 Wins
+554, Paper, Rock, GPU 0 Wins
+555, Paper, Rock, GPU 0 Wins
+556, Paper, Rock, GPU 0 Wins
+557, Paper, Rock, GPU 0 Wins
+558, Paper, Rock, GPU 0 Wins
+559, Rock, Rock, Tie
+560, Paper, Rock, GPU 0 Wins
+561, Scissors, Rock, GPU 1 Wins
+562, Scissors, Rock, GPU 1 Wins
+563, Scissors, Rock, GPU 1 Wins
+564, Scissors, Rock, GPU 1 Wins
+565, Scissors, Rock, GPU 1 Wins
+566, Scissors, Rock, GPU 1 Wins
+567, Paper, Rock, GPU 0 Wins
+568, Rock, Rock, Tie
+569, Paper, Rock, GPU 0 Wins
+570, Scissors, Rock, GPU 1 Wins
+571, Scissors, Rock, GPU 1 Wins
+572, Rock, Rock, Tie
+573, Scissors, Rock, GPU 1 Wins
+574, Scissors, Rock, GPU 1 Wins
+575, Paper, Rock, GPU 0 Wins
+576, Rock, Rock, Tie
+577, Paper, Rock, GPU 0 Wins
+578, Paper, Rock, GPU 0 Wins
+579, Scissors, Rock, GPU 1 Wins
+580, Scissors, Rock, GPU 1 Wins
+581, Paper, Rock, GPU 0 Wins
+582, Paper, Rock, GPU 0 Wins
+583, Paper, Rock, GPU 0 Wins
+584, Scissors, Rock, GPU 1 Wins
+585, Rock, Rock, Tie
+586, Rock, Rock, Tie
+587, Scissors, Rock, GPU 1 Wins
+588, Rock, Rock, Tie
+589, Paper, Rock, GPU 0 Wins
+590, Rock, Rock, Tie
+591, Rock, Rock, Tie
+592, Rock, Rock, Tie
+593, Rock, Rock, Tie
+594, Paper, Rock, GPU 0 Wins
+595, Scissors, Rock, GPU 1 Wins
+596, Paper, Rock, GPU 0 Wins
+597, Rock, Rock, Tie
+598, Scissors, Rock, GPU 1 Wins
+599, Scissors, Rock, GPU 1 Wins
+600, Rock, Rock, Tie
+601, Scissors, Rock, GPU 1 Wins
+602, Rock, Rock, Tie
+603, Rock, Rock, Tie
+604, Rock, Rock, Tie
+605, Paper, Rock, GPU 0 Wins
+606, Rock, Rock, Tie
+607, Rock, Rock, Tie
+608, Paper, Rock, GPU 0 Wins
+609, Scissors, Rock, GPU 1 Wins
+610, Paper, Rock, GPU 0 Wins
+611, Rock, Rock, Tie
+612, Scissors, Rock, GPU 1 Wins
+613, Scissors, Rock, GPU 1 Wins
+614, Scissors, Rock, GPU 1 Wins
+615, Scissors, Rock, GPU 1 Wins
+616, Paper, Rock, GPU 0 Wins
+617, Paper, Rock, GPU 0 Wins
+618, Rock, Rock, Tie
+619, Paper, Rock, GPU 0 Wins
+620, Paper, Rock, GPU 0 Wins
+621, Scissors, Rock, GPU 1 Wins
+622, Paper, Rock, GPU 0 Wins
+623, Scissors, Rock, GPU 1 Wins
+624, Paper, Rock, GPU 0 Wins
+625, Rock, Rock, Tie
+626, Paper, Rock, GPU 0 Wins
+627, Scissors, Rock, GPU 1 Wins
+628, Paper, Rock, GPU 0 Wins
+629, Paper, Rock, GPU 0 Wins
+630, Rock, Rock, Tie
+631, Rock, Rock, Tie
+632, Rock, Rock, Tie
+633, Scissors, Rock, GPU 1 Wins
+634, Scissors, Rock, GPU 1 Wins
+635, Paper, Rock, GPU 0 Wins
+636, Paper, Rock, GPU 0 Wins
+637, Rock, Rock, Tie
+638, Paper, Rock, GPU 0 Wins
+639, Paper, Rock, GPU 0 Wins
+640, Paper, Rock, GPU 0 Wins
+641, Scissors, Rock, GPU 1 Wins
+642, Scissors, Rock, GPU 1 Wins
+643, Paper, Rock, GPU 0 Wins
+644, Rock, Rock, Tie
+645, Paper, Rock, GPU 0 Wins
+646, Rock, Rock, Tie
+647, Scissors, Rock, GPU 1 Wins
+648, Rock, Rock, Tie
+649, Scissors, Rock, GPU 1 Wins
+650, Scissors, Rock, GPU 1 Wins
+651, Rock, Rock, Tie
+652, Scissors, Rock, GPU 1 Wins
+653, Rock, Rock, Tie
+654, Rock, Rock, Tie
+655, Rock, Rock, Tie
+656, Rock, Rock, Tie
+657, Scissors, Rock, GPU 1 Wins
+658, Scissors, Rock, GPU 1 Wins
+659, Paper, Rock, GPU 0 Wins
+660, Paper, Rock, GPU 0 Wins
+661, Scissors, Rock, GPU 1 Wins
+662, Paper, Rock, GPU 0 Wins
+663, Rock, Rock, Tie
+664, Paper, Rock, GPU 0 Wins
+665, Rock, Rock, Tie
+666, Scissors, Rock, GPU 1 Wins
+667, Paper, Rock, GPU 0 Wins
+668, Rock, Rock, Tie
+669, Scissors, Rock, GPU 1 Wins
+670, Scissors, Rock, GPU 1 Wins
+671, Rock, Rock, Tie
+672, Rock, Rock, Tie
+673, Rock, Rock, Tie
+674, Paper, Rock, GPU 0 Wins
+675, Paper, Rock, GPU 0 Wins
+676, Rock, Rock, Tie
+677, Scissors, Rock, GPU 1 Wins
+678, Rock, Rock, Tie
+679, Rock, Rock, Tie
+680, Rock, Rock, Tie
+681, Paper, Rock, GPU 0 Wins
+682, Rock, Rock, Tie
+683, Scissors, Rock, GPU 1 Wins
+684, Rock, Rock, Tie
+685, Scissors, Rock, GPU 1 Wins
+686, Scissors, Rock, GPU 1 Wins
+687, Paper, Rock, GPU 0 Wins
+688, Scissors, Rock, GPU 1 Wins
+689, Scissors, Rock, GPU 1 Wins
+690, Rock, Rock, Tie
+691, Scissors, Rock, GPU 1 Wins
+692, Scissors, Rock, GPU 1 Wins
+693, Rock, Rock, Tie
+694, Scissors, Rock, GPU 1 Wins
+695, Paper, Rock, GPU 0 Wins
+696, Paper, Rock, GPU 0 Wins
+697, Rock, Rock, Tie
+698, Scissors, Rock, GPU 1 Wins
+699, Paper, Rock, GPU 0 Wins
+700, Rock, Rock, Tie
+701, Rock, Rock, Tie
+702, Scissors, Rock, GPU 1 Wins
+703, Rock, Rock, Tie
+704, Paper, Rock, GPU 0 Wins
+705, Paper, Rock, GPU 0 Wins
+706, Rock, Rock, Tie
+707, Paper, Rock, GPU 0 Wins
+708, Rock, Rock, Tie
+709, Paper, Rock, GPU 0 Wins
+710, Rock, Rock, Tie
+711, Paper, Rock, GPU 0 Wins
+712, Paper, Rock, GPU 0 Wins
+713, Paper, Rock, GPU 0 Wins
+714, Scissors, Rock, GPU 1 Wins
+715, Scissors, Rock, GPU 1 Wins
+716, Paper, Rock, GPU 0 Wins
+717, Rock, Rock, Tie
+718, Scissors, Rock, GPU 1 Wins
+719, Paper, Rock, GPU 0 Wins
+720, Paper, Rock, GPU 0 Wins
+721, Scissors, Rock, GPU 1 Wins
+722, Paper, Rock, GPU 0 Wins
+723, Scissors, Rock, GPU 1 Wins
+724, Scissors, Rock, GPU 1 Wins
+725, Scissors, Rock, GPU 1 Wins
+726, Paper, Rock, GPU 0 Wins
+727, Scissors, Rock, GPU 1 Wins
+728, Rock, Rock, Tie
+729, Paper, Rock, GPU 0 Wins
+730, Paper, Rock, GPU 0 Wins
+731, Scissors, Rock, GPU 1 Wins
+732, Rock, Rock, Tie
+733, Scissors, Rock, GPU 1 Wins
+734, Rock, Rock, Tie
+735, Rock, Rock, Tie
+736, Scissors, Rock, GPU 1 Wins
+737, Scissors, Rock, GPU 1 Wins
+738, Rock, Rock, Tie
+739, Rock, Rock, Tie
+740, Paper, Rock, GPU 0 Wins
+741, Rock, Rock, Tie
+742, Paper, Rock, GPU 0 Wins
+743, Scissors, Rock, GPU 1 Wins
+744, Scissors, Rock, GPU 1 Wins
+745, Paper, Rock, GPU 0 Wins
+746, Paper, Rock, GPU 0 Wins
+747, Scissors, Rock, GPU 1 Wins
+748, Paper, Rock, GPU 0 Wins
+749, Scissors, Rock, GPU 1 Wins
+750, Scissors, Rock, GPU 1 Wins
+751, Rock, Rock, Tie
+752, Paper, Rock, GPU 0 Wins
+753, Scissors, Rock, GPU 1 Wins
+754, Paper, Rock, GPU 0 Wins
+755, Scissors, Rock, GPU 1 Wins
+756, Rock, Rock, Tie
+757, Rock, Rock, Tie
+758, Rock, Rock, Tie
+759, Scissors, Rock, GPU 1 Wins
+760, Scissors, Rock, GPU 1 Wins
+761, Rock, Rock, Tie
+762, Paper, Rock, GPU 0 Wins
+763, Paper, Rock, GPU 0 Wins
+764, Scissors, Rock, GPU 1 Wins
+765, Rock, Rock, Tie
+766, Scissors, Rock, GPU 1 Wins
+767, Rock, Rock, Tie
+768, Paper, Rock, GPU 0 Wins
+769, Rock, Rock, Tie
+770, Scissors, Rock, GPU 1 Wins
+771, Rock, Rock, Tie
+772, Scissors, Rock, GPU 1 Wins
+773, Paper, Rock, GPU 0 Wins
+774, Paper, Rock, GPU 0 Wins
+775, Rock, Rock, Tie
+776, Scissors, Rock, GPU 1 Wins
+777, Rock, Rock, Tie
+778, Paper, Rock, GPU 0 Wins
+779, Rock, Rock, Tie
+780, Rock, Rock, Tie
+781, Rock, Rock, Tie
+782, Scissors, Rock, GPU 1 Wins
+783, Rock, Rock, Tie
+784, Scissors, Rock, GPU 1 Wins
+785, Paper, Rock, GPU 0 Wins
+786, Rock, Rock, Tie
+787, Scissors, Rock, GPU 1 Wins
+788, Paper, Rock, GPU 0 Wins
+789, Rock, Rock, Tie
+790, Paper, Rock, GPU 0 Wins
+791, Rock, Rock, Tie
+792, Rock, Rock, Tie
+793, Paper, Rock, GPU 0 Wins
+794, Rock, Rock, Tie
+795, Rock, Rock, Tie
+796, Paper, Rock, GPU 0 Wins
+797, Paper, Rock, GPU 0 Wins
+798, Scissors, Rock, GPU 1 Wins
+799, Rock, Rock, Tie
+800, Rock, Rock, Tie
+801, Scissors, Rock, GPU 1 Wins
+802, Paper, Rock, GPU 0 Wins
+803, Scissors, Rock, GPU 1 Wins
+804, Rock, Rock, Tie
+805, Rock, Rock, Tie
+806, Paper, Rock, GPU 0 Wins
+807, Paper, Rock, GPU 0 Wins
+808, Paper, Rock, GPU 0 Wins
+809, Paper, Rock, GPU 0 Wins
+810, Scissors, Rock, GPU 1 Wins
+811, Scissors, Rock, GPU 1 Wins
+812, Paper, Rock, GPU 0 Wins
+813, Rock, Rock, Tie
+814, Paper, Rock, GPU 0 Wins
+815, Scissors, Rock, GPU 1 Wins
+816, Paper, Rock, GPU 0 Wins
+817, Paper, Rock, GPU 0 Wins
+818, Paper, Rock, GPU 0 Wins
+819, Rock, Rock, Tie
+820, Rock, Rock, Tie
+821, Rock, Rock, Tie
+822, Paper, Rock, GPU 0 Wins
+823, Paper, Rock, GPU 0 Wins
+824, Paper, Rock, GPU 0 Wins
+825, Paper, Rock, GPU 0 Wins
+826, Scissors, Rock, GPU 1 Wins
+827, Paper, Rock, GPU 0 Wins
+828, Rock, Rock, Tie
+829, Rock, Rock, Tie
+830, Rock, Rock, Tie
+831, Rock, Rock, Tie
+832, Paper, Rock, GPU 0 Wins
+833, Scissors, Scissors, Tie
+834, Rock, Rock, Tie
+835, Rock, Rock, Tie
+836, Scissors, Rock, GPU 1 Wins
+837, Rock, Rock, Tie
+838, Rock, Rock, Tie
+839, Rock, Rock, Tie
+840, Scissors, Rock, GPU 1 Wins
+841, Scissors, Rock, GPU 1 Wins
+842, Scissors, Rock, GPU 1 Wins
+843, Paper, Rock, GPU 0 Wins
+844, Scissors, Rock, GPU 1 Wins
+845, Scissors, Rock, GPU 1 Wins
+846, Paper, Rock, GPU 0 Wins
+847, Scissors, Rock, GPU 1 Wins
+848, Paper, Rock, GPU 0 Wins
+849, Rock, Rock, Tie
+850, Rock, Rock, Tie
+851, Scissors, Rock, GPU 1 Wins
+852, Paper, Rock, GPU 0 Wins
+853, Scissors, Rock, GPU 1 Wins
+854, Scissors, Rock, GPU 1 Wins
+855, Paper, Rock, GPU 0 Wins
+856, Paper, Rock, GPU 0 Wins
+857, Paper, Rock, GPU 0 Wins
+858, Scissors, Rock, GPU 1 Wins
+859, Paper, Rock, GPU 0 Wins
+860, Scissors, Rock, GPU 1 Wins
+861, Rock, Rock, Tie
+862, Scissors, Rock, GPU 1 Wins
+863, Scissors, Rock, GPU 1 Wins
+864, Paper, Rock, GPU 0 Wins
+865, Scissors, Rock, GPU 1 Wins
+866, Rock, Rock, Tie
+867, Rock, Rock, Tie
+868, Paper, Rock, GPU 0 Wins
+869, Paper, Rock, GPU 0 Wins
+870, Rock, Rock, Tie
+871, Scissors, Rock, GPU 1 Wins
+872, Rock, Rock, Tie
+873, Paper, Rock, GPU 0 Wins
+874, Rock, Rock, Tie
+875, Rock, Rock, Tie
+876, Scissors, Rock, GPU 1 Wins
+877, Scissors, Rock, GPU 1 Wins
+878, Scissors, Rock, GPU 1 Wins
+879, Scissors, Rock, GPU 1 Wins
+880, Paper, Rock, GPU 0 Wins
+881, Rock, Rock, Tie
+882, Paper, Rock, GPU 0 Wins
+883, Paper, Rock, GPU 0 Wins
+884, Scissors, Rock, GPU 1 Wins
+885, Paper, Rock, GPU 0 Wins
+886, Rock, Rock, Tie
+887, Paper, Rock, GPU 0 Wins
+888, Paper, Rock, GPU 0 Wins
+889, Paper, Rock, GPU 0 Wins
+890, Rock, Rock, Tie
+891, Scissors, Rock, GPU 1 Wins
+892, Rock, Rock, Tie
+893, Rock, Rock, Tie
+894, Rock, Rock, Tie
+895, Paper, Rock, GPU 0 Wins
+896, Rock, Rock, Tie
+897, Rock, Rock, Tie
+898, Rock, Rock, Tie
+899, Rock, Rock, Tie
+900, Rock, Rock, Tie
+901, Rock, Rock, Tie
+902, Scissors, Rock, GPU 1 Wins
+903, Rock, Rock, Tie
+904, Rock, Rock, Tie
+905, Scissors, Rock, GPU 1 Wins
+906, Rock, Rock, Tie
+907, Paper, Rock, GPU 0 Wins
+908, Scissors, Rock, GPU 1 Wins
+909, Paper, Rock, GPU 0 Wins
+910, Paper, Rock, GPU 0 Wins
+911, Rock, Rock, Tie
+912, Scissors, Rock, GPU 1 Wins
+913, Rock, Rock, Tie
+914, Paper, Rock, GPU 0 Wins
+915, Rock, Rock, Tie
+916, Rock, Paper, GPU 1 Wins
+917, Scissors, Paper, GPU 0 Wins
+918, Scissors, Paper, GPU 0 Wins
+919, Rock, Rock, Tie
+920, Paper, Paper, Tie
+921, Scissors, Paper, GPU 0 Wins
+922, Paper, Rock, GPU 0 Wins
+923, Scissors, Rock, GPU 1 Wins
+924, Paper, Rock, GPU 0 Wins
+925, Paper, Rock, GPU 0 Wins
+926, Rock, Rock, Tie
+927, Paper, Rock, GPU 0 Wins
+928, Rock, Rock, Tie
+929, Paper, Paper, Tie
+930, Paper, Paper, Tie
+931, Paper, Paper, Tie
+932, Scissors, Scissors, Tie
+933, Scissors, Scissors, Tie
+934, Scissors, Rock, GPU 1 Wins
+935, Rock, Rock, Tie
+936, Paper, Rock, GPU 0 Wins
+937, Scissors, Rock, GPU 1 Wins
+938, Scissors, Rock, GPU 1 Wins
+939, Scissors, Rock, GPU 1 Wins
+940, Scissors, Rock, GPU 1 Wins
+941, Scissors, Rock, GPU 1 Wins
+942, Paper, Rock, GPU 0 Wins
+943, Paper, Rock, GPU 0 Wins
+944, Rock, Rock, Tie
+945, Rock, Rock, Tie
+946, Paper, Rock, GPU 0 Wins
+947, Paper, Rock, GPU 0 Wins
+948, Rock, Rock, Tie
+949, Rock, Rock, Tie
+950, Rock, Rock, Tie
+951, Rock, Rock, Tie
+952, Rock, Rock, Tie
+953, Rock, Paper, GPU 1 Wins
+954, Scissors, Paper, GPU 0 Wins
+955, Scissors, Paper, GPU 0 Wins
+956, Paper, Rock, GPU 0 Wins
+957, Paper, Rock, GPU 0 Wins
+958, Paper, Rock, GPU 0 Wins
+959, Rock, Rock, Tie
+960, Rock, Paper, GPU 1 Wins
+961, Rock, Paper, GPU 1 Wins
+962, Paper, Paper, Tie
+963, Rock, Paper, GPU 1 Wins
+964, Paper, Paper, Tie
+965, Paper, Paper, Tie
+966, Scissors, Paper, GPU 0 Wins
+967, Rock, Paper, GPU 1 Wins
+968, Rock, Paper, GPU 1 Wins
+969, Paper, Paper, Tie
+970, Scissors, Paper, GPU 0 Wins
+971, Scissors, Paper, GPU 0 Wins
+972, Rock, Paper, GPU 1 Wins
+973, Scissors, Paper, GPU 0 Wins
+974, Rock, Paper, GPU 1 Wins
+975, Paper, Paper, Tie
+976, Scissors, Paper, GPU 0 Wins
+977, Scissors, Paper, GPU 0 Wins
+978, Scissors, Paper, GPU 0 Wins
+979, Rock, Paper, GPU 1 Wins
+980, Paper, Paper, Tie
+981, Paper, Paper, Tie
+982, Rock, Paper, GPU 1 Wins
+983, Rock, Paper, GPU 1 Wins
+984, Scissors, Paper, GPU 0 Wins
+985, Paper, Paper, Tie
+986, Paper, Paper, Tie
+987, Scissors, Paper, GPU 0 Wins
+988, Rock, Paper, GPU 1 Wins
+989, Rock, Paper, GPU 1 Wins
+990, Rock, Paper, GPU 1 Wins
+991, Scissors, Paper, GPU 0 Wins
+992, Rock, Paper, GPU 1 Wins
+993, Paper, Paper, Tie
+994, Rock, Paper, GPU 1 Wins
+995, Scissors, Paper, GPU 0 Wins
+996, Scissors, Paper, GPU 0 Wins
+997, Rock, Paper, GPU 1 Wins
+998, Scissors, Paper, GPU 0 Wins
+999, Paper, Paper, Tie
+1000, Paper, Paper, Tie
+
+Summary:
+GPU 0 Wins: 333
+GPU 1 Wins: 320
+Ties: 347
